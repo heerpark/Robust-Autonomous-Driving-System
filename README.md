@@ -2,11 +2,13 @@
 
 # Robust Autonomous Driving System: Data-Centric Optimization and Multi-Verification Control
 
-
-## Demo Video
-
 [![Autonomous Driving Demo](https://img.youtube.com/vi/ryZqfcbLcd4/0.jpg)](https://www.youtube.com/watch?v=ryZqfcbLcd4)
-
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ryZqfcbLcd4">
+    <img src="https://img.youtube.com/vi/ryZqfcbLcd4/maxresdefault.jpg" width="800">
+  </a>
+</p>
+이미지를 클릭하시면 전체 주행 영상을 보실 수 있습니다.
 
 
 # 1. 프로젝트 요약
