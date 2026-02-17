@@ -2,15 +2,6 @@
 
 # Robust Autonomous Driving System: Data-Centric Optimization and Multi-Verification Control
 
-[![Autonomous Driving Demo](https://img.youtube.com/vi/ryZqfcbLcd4/0.jpg)](https://www.youtube.com/watch?v=ryZqfcbLcd4)
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=ryZqfcbLcd4">
-    <img src="https://img.youtube.com/vi/ryZqfcbLcd4/maxresdefault.jpg" width="800">
-  </a>
-</p>
-이미지를 클릭하시면 전체 주행 영상을 보실 수 있습니다.
-
-
 # 1. 프로젝트 요약
 
 본 프로젝트는 라즈베리파이 5 기반 자율주행 RC카 시스템에서
@@ -20,6 +11,13 @@
 단순히 모델의 크기를 키우는 대신,
 데이터의 품질을 높이고 제어 로직의 신뢰도를 보완하여
 엣지 컴퓨팅 환경에 최적화된 자율주행 솔루션을 구현했습니다.
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ryZqfcbLcd4">
+    <img src="https://img.youtube.com/vi/ryZqfcbLcd4/maxresdefault.jpg" width="800">
+  </a>
+</p>
+이미지를 클릭하시면 전체 주행 영상을 보실 수 있습니다.
 
 ---
 
