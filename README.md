@@ -1,14 +1,9 @@
 
 
-# Robust Autonomous Driving System
+# Robust Autonomous Driving System: Data-Centric Optimization and Multi-Verification Control
 
-## Data-Centric Optimization and Multi-Verification Control
-
----
 
 ## Demo Video
-
-<!-- 여기에 동영상 파일 경로만 수정하세요 -->
 
 <video src="./로봇_주행영상.mp4" controls width="700"></video>
 
