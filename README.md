@@ -5,7 +5,8 @@
 
 ## Demo Video
 
-<video src="./로봇_주행영상.mp4" controls width="700"></video>
+[![Autonomous Driving Demo](https://img.youtube.com/vi/ryZqfcbLcd4/0.jpg)](https://www.youtube.com/watch?v=ryZqfcbLcd4)
+
 
 
 # 프로젝트 요약
@@ -74,6 +75,7 @@ Target = C_x + Offset
 Error = Target - \frac{Width}{2}
 ]
 
+---
 
 # 문제 해결 1: 객체 인식 오류 해결
 
